@@ -16,8 +16,8 @@ Trong quá trình làm việc, mình đã có cơ hội sử dụng và phát tr
 - Kết hợp kỹ năng lập trình để tự động hóa quy trình phát triển.
 
 ## 📫 Liên hệ
-- **Email:** [huynhminhtruong2003@gmail.com]  
-- **GitHub:** [github.com/huynhminhtruong](https://github.com/huynhminhtruong)
+- **Email:** huynhminhtruong2003@gmail.com
+- **GitHub:** github.com/huynhminhtruong(https://github.com/huynhminhtruong)
 
 ---
 
