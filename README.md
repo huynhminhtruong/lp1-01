@@ -17,7 +17,7 @@ Trong quá trình làm việc, mình đã có cơ hội sử dụng và phát tr
 
 ## 📫 Liên hệ
 - **Email:** huynhminhtruong2003@gmail.com
-- **GitHub:** github.com/huynhminhtruong(https://github.com/huynhminhtruong)
+- **GitHub:** [github.com/huynhminhtruong](https://github.com/huynhminhtruong)
 
 ---
 
